@@ -1,4 +1,4 @@
-Welcome to my Second Hand Car Selling Price Prediction project! In this project, I utilized data analysis and machine learning techniques to predict the selling prices of second hand cars. The goal would be to help potential buyers and sellers make informed decisions based on various car features.
+Welcome to my Used Car Price Prediction project! In this project, I utilized data analysis and machine learning techniques to predict the selling prices of second hand cars. The goal would be to help potential buyers and sellers make informed decisions based on various car features.
 
 # Project Overview
 In this project, I:
